@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhu</h1>
-<h3 align="center">A passionate software engineer from India, I love to solve complex problems with the help of machine learning</h3>
+<h3 align="center">A passionate software engineer, I love to solve complex problems with the help of machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhupad26&label=Profile%20views&color=0e75b6&style=flat" alt="prabhupad26" /> </p>
 
